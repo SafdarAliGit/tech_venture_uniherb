@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include tech_venture_uniherb *.css
+recursive-include tech_venture_uniherb *.csv
+recursive-include tech_venture_uniherb *.html
+recursive-include tech_venture_uniherb *.ico
+recursive-include tech_venture_uniherb *.js
+recursive-include tech_venture_uniherb *.json
+recursive-include tech_venture_uniherb *.md
+recursive-include tech_venture_uniherb *.png
+recursive-include tech_venture_uniherb *.py
+recursive-include tech_venture_uniherb *.svg
+recursive-include tech_venture_uniherb *.txt
+recursive-exclude tech_venture_uniherb *.pyc
