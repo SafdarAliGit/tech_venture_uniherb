@@ -1,6 +1,6 @@
 
 
-frappe.query_reports["Itemwise Party Ledger Uniherb"] = {
+frappe.query_reports["Itemwise Party Ledger"] = {
 	"filters": [
 		{
 			"fieldname":"company",
